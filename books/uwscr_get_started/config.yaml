@@ -24,3 +24,4 @@ chapters:
   - new-feature-hash-endhash
   - new-feature-enum-endenum
   - new-feature-function-definition
+  - new-feature-anonymous-function
