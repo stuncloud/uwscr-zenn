@@ -1,8 +1,18 @@
 title: "UWSCR入門"
-summary: "UWSCRは現在開発中のUWSC互換スクリプト実行ツールです。\nUWSCからの変更点や新しく追加された機能を中心に解説していきます。\nすでにある程度UWSCが扱える方が対象です。\n\n※ 開発中のため仕様変更に伴い記事の内容も修正される可能性があります。\n\nhttps://github.com/stuncloud/UWSCR"
-topics: ["uwsc", "uwscr"]
+summary: |-
+  UWSCRは現在開発中のUWSC互換スクリプト実行ツールです。
+  https://github.com/stuncloud/UWSCR
+  UWSCからの変更点や新しく追加された機能を中心に解説していきます。
+  すでにある程度UWSCが扱える方が対象です。
+
+  ※ 開発中のため仕様変更に伴い記事の内容も修正される可能性があります。
+  ※ 有料記事ですがすべてのチャプターを無料でお読みいただけます
+topics:
+  - "uwscr"
+  - "uwsc"
 published: false
-price: 0 # 有料の場合200〜5000
+price: 1000 # 有料の場合200〜5000
+toc_depth: 1
 # 本に含めるチャプターを順番に並べましょう
 chapters:
   - setup
