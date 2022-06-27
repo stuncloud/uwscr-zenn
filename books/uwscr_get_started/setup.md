@@ -1,6 +1,6 @@
 ---
 title: "セットアップと実行方法"
-free: false
+free: true
 ---
 
 # UWSCRのダウンロード

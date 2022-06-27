@@ -1,6 +1,6 @@
 ---
 title: "新機能: hash-endhash (連想配列定義の糖衣構文)"
-free: false
+free: true
 ---
 
 連想配列の宣言と初期化を行うための構文です。

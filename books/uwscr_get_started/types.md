@@ -1,6 +1,6 @@
 ---
 title: "値の型について"
-free: false
+free: true
 ---
 
 # 型の種類
